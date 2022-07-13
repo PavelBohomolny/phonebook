@@ -1,0 +1,47 @@
+[
+    {
+        "firstName": "Pavel",
+        "surname": "Bohomolnyi",
+        "gender": "Male",
+        "age": 29,
+        "address": {
+            "streetAddress": "J.H.Bavincklaan 5",
+            "city": "Amstelveen",
+            "state": "Netherlands",
+            "postalCode": "1183AT"
+        },
+        "phoneNumbers": [
+            { "type": "home", "number": "+31686114249" }
+        ]
+    },
+    {
+        "firstName": "Maria",
+        "surname": "Lutovinova",
+        "gender": "Female",
+        "age": 25,
+        "address": {
+            "streetAddress": "J.H.Bavincklaan 5",
+            "city": "Amstelveen",
+            "state": "Netherlands",
+            "postalCode": "1183AT"
+        },
+        "phoneNumbers": [
+            { "type": "home", "number": "+31686123456" }
+        ]
+    },
+    {
+        "firstName": "Ted",
+        "surname": "Bear",
+        "gender": "Male",
+        "age": 5,
+        "address": {
+            "streetAddress": "Amterdam Zoo",
+            "city": "Amsterdam",
+            "state": "Netherlands",
+            "postalCode": "1234ZO"
+        },
+        "phoneNumbers": [
+            { "type": "home", "number": "+31686987654" }
+        ]
+    }
+]
